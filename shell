@@ -1,0 +1,4 @@
+<?php
+
+print shell_exec(ls);
+?>
